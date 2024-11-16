@@ -12,3 +12,16 @@ The key benefits of multi-model systems include task specialization, increased e
 It will allow to prompt huge size text compare to text model LLM
 
 
+Can we do vector embedding using one LLM and generate response via different LLM?
+Yes.
+In a Retrieval-Augmented Generation (RAG) system, it is entirely feasible to use one LLM for vector embeddings (for retrieval purposes) and a different LLM for response generation. This is actually a common setup in many advanced RAG-based systems, where different models are optimized for specific tasks—retrieval and generation.
+Embedding models (often smaller or optimized for retrieval) can be run on less expensive hardware (like CPUs), while larger generative models can be run on GPUs only when needed for generation
+
+Vector stores:
+https://python.langchain.com/v0.1/docs/integrations/vectorstores/
+FAISS, Pinecone, Milvus, or Weaviate - top vector stores
+Couchbase - support vector storage and retrieval, but not effective in retrival, need to integrate it with specialized vector search systems such as FAISS, Pinecone, Milvus, or Weaviate
+Redis - support vector storage and effective retrieval, but it ephemeral.
+Postgres - support vector storage and effective retrieval with extention pg vector.
+
+Full text search vs Semantic search vs nearest neighbor search:
