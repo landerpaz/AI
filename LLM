@@ -30,4 +30,7 @@ LLMA - transformer - token:
 https://huggingface.co/docs/transformers/main/en/model_doc/llama
 Online token counter - https://huggingface.co/spaces/Xanthius/llama-token-counter
 
+What is max size of token (input/output) for LLM?
+Most of basic model including llma support 4000 size of tokens for input
+
 Full text search vs Semantic search vs nearest neighbor search:
