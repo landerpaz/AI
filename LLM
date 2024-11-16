@@ -33,4 +33,7 @@ Online token counter - https://huggingface.co/spaces/Xanthius/llama-token-counte
 What is max size of token (input/output) for LLM?
 Most of basic model including llma support 4000 size of tokens for input
 
+LLMA installation guide:
+https://www.youtube.com/watch?v=7r3eGE9ryJw
+
 Full text search vs Semantic search vs nearest neighbor search:
