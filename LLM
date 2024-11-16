@@ -7,6 +7,8 @@ Is there any advantage of using Multi model LLM for text processing:
 The key benefits of multi-model systems include task specialization, increased efficiency, better accuracy, cost optimization, and the ability to combine models for multi-modal or multi-step tasks.
 It will allow to prompt huge size text compare to text model LLM
 
+Is Text model / Multi model / size (3B / 70B) decides the vector embedding size?
+
 
 Can we do vector embedding using one LLM and generate response via different LLM?
 Yes.
@@ -36,6 +38,9 @@ Online token counter - https://huggingface.co/spaces/Xanthius/llama-token-counte
 
 What is max size of token (input/output) for LLM?
 Most of basic model including llma support 4000 size of tokens for input
+To increase the token size, LLM has to be tuned. Need more info on this.
+
+Why RAG is appropriate solution for doamin use case than training / tuning?
 
 LLMA installation guide:
 https://www.youtube.com/watch?v=7r3eGE9ryJw
