@@ -24,4 +24,10 @@ Couchbase - support vector storage and retrieval, but not effective in retrival,
 Redis - support vector storage and effective retrieval, but it ephemeral.
 Postgres - support vector storage and effective retrieval with extention pg vector.
 
+Tools using LLAM 3 , speed comparision:
+https://groq.com/
+
+Chat with LLAMA 3 via online:
+https://groq.com/
+
 Full text search vs Semantic search vs nearest neighbor search:
