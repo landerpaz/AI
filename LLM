@@ -19,6 +19,10 @@ FAISS, Pinecone, Milvus, or Weaviate - top vector stores
 Couchbase - support vector storage and retrieval, but not effective in retrival, need to integrate it with specialized vector search systems such as FAISS, Pinecone, Milvus, or Weaviate
 Redis - support vector storage and effective retrieval, but it ephemeral.
 Postgres - support vector storage and effective retrieval with extention pg vector.
+Amazon Aurora PostgreSQL-Compatible Edition and Amazon Relational Database Service (Amazon RDS) for PostgreSQL support the pgvector extension to store embeddings from machine learning (ML) models in your database and to perform efficient similarity searches.
+Google Cloud offers relational databases AlloyDB for PostgreSQL and Cloud SQL for PostgreSQL that support building generative AI applications using the pgvector PostgreSQL extension, LangChain, and large language models (LLMs).
+Azure Cosmos DB for PostgreSQL,
+Note : All CSPs offer one vector DB for unstructured data and one for RDBMS. Postgres is the one available as the managed vecor database in all CSPs
 
 Tools using LLAM 3 , speed comparision:
 https://groq.com/
