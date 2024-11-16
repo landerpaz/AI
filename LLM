@@ -1,14 +1,10 @@
 Text model LLM vs Multi model LLM:
-
 Text model LLMs are primarily focused on processing textual data, while multimodal LLMs can process and understand multiple types of data like vedio , image, document and text.
-
 Restriction in number of tokens, it will allow to prompt upto certain lenght of text.
 
 
 Is there any advantage of using Multi model LLM for text processing:
-
 The key benefits of multi-model systems include task specialization, increased efficiency, better accuracy, cost optimization, and the ability to combine models for multi-modal or multi-step tasks.
-
 It will allow to prompt huge size text compare to text model LLM
 
 
@@ -29,5 +25,9 @@ https://groq.com/
 
 Chat with LLAMA 3 via online:
 https://groq.com/
+
+LLMA - transformer - token:
+https://huggingface.co/docs/transformers/main/en/model_doc/llama
+
 
 Full text search vs Semantic search vs nearest neighbor search:
