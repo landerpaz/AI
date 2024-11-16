@@ -37,3 +37,20 @@ LLMA installation guide:
 https://www.youtube.com/watch?v=7r3eGE9ryJw
 
 Full text search vs Semantic search vs nearest neighbor search:
+
+
+Prompt local LLAMA via API:
+curl http://localhost:11434/api/chat -d '{
+  "model": "llama3.2",
+  "messages": [
+    { "role": "user", "content": "What are Atoms?" }
+  ],
+  "stream": false
+}'
+
+Vector embedding using local llama:
+curl http://localhost:11434/api/embeddings -d '{
+  "model": "llama3.2",
+  "prompt": "hello"
+}'
+
