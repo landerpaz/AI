@@ -66,3 +66,7 @@ curl http://localhost:11434/api/embeddings -d '{
   "prompt": "hello"
 }'
 
+What is foundation model?
+A foundation model is a type of artificial intelligence (AI) model that's trained on a large amount of unlabeled data to perform a wide range of tasks.
+Data scientists can build upon foundation models by fine-tuning them with domain-specific data. This approach can improve the model's performance for specific tasks and industries.
+
