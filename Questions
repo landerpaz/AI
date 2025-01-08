@@ -1,4 +1,16 @@
 Questions?
 1. how to show the response of assets in tabular format (instructions = [Use tables to display data])
 
-2. How the knowledge (weight and bias ) stored as files?
+2. How the knowledge (weights and biases ) stored as files?
+
+3. Can we adjust biases directly without training?
+
+4. inferential
+
+The term inferential is commonly used in the fields of statistics, data science, and artificial intelligence. 
+It refers to the process of drawing conclusions or making predictions about a larger population or dataset based on a smaller sample 
+or a model's learned patterns.
+
+Inferential Statistics:
+Involves using sample data to make generalizations about a population.
+Relies on probability theory to estimate or test hypotheses.
