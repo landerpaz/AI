@@ -33,3 +33,19 @@ Machine Learning
  - organize data
  - Generate descriptive or inferencial results
 Ultimately extract insights
+
+7. Difference between langchain and phidata?
+LangChain is best suited for developers who want flexibility in building custom LLM-driven workflows, chatbots, or retrieval-based systems.
+PhiData is ideal for data and operations teams looking for a streamlined platform to manage, deploy, and monitor AI workflows
+
+Example Use Cases
+LangChain :
+1.Chatbot Development	Build a conversational agent with memory.	
+2.RAG (Search + AI)	Integrate with vector stores for RAG.	
+3.AI Workflow Automation	Supports custom toolchains but manual setup.
+4.Enterprise Analytics	Requires custom integration.	
+PhiData:
+1.Less suited for this use case.
+2.Limited out-of-the-box support for RAG.
+3.Simplifies pipeline automation.
+4.Built for analytics and decision-making.
