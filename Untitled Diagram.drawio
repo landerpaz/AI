@@ -152,14 +152,13 @@
         <mxCell id="kIVAA76M_tabAzQaC-W4-37" edge="1" parent="1" source="kIVAA76M_tabAzQaC-W4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.217;entryDx=0;entryDy=0;entryPerimeter=0;" target="kIVAA76M_tabAzQaC-W4-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1195" y="700" />
-              <mxPoint x="1195" y="327" />
+              <mxPoint x="1070" y="327" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kIVAA76M_tabAzQaC-W4-38" connectable="0" parent="kIVAA76M_tabAzQaC-W4-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;A-3. Give me the agent card (s) for &quot;I want to create application in CA&quot;&amp;nbsp;&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0751" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-200" y="-89" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kIVAA76M_tabAzQaC-W4-39" edge="1" parent="1" source="kIVAA76M_tabAzQaC-W4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kIVAA76M_tabAzQaC-W4-8">
@@ -170,7 +169,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kIVAA76M_tabAzQaC-W4-40" connectable="0" parent="kIVAA76M_tabAzQaC-W4-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;A-4 Do semantic search and find the matching cards&lt;/font&gt;" vertex="1">
+        <mxCell id="kIVAA76M_tabAzQaC-W4-40" connectable="0" parent="kIVAA76M_tabAzQaC-W4-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;A-4. Do semantic search and find the matching cards&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.009" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
