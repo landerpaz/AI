@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" pages="2">
   <diagram name="Agentic Arch" id="Uy6vbAlBQSHDkDEteyAm">
-    <mxGraphModel dx="1438" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3452" dy="1353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,26 +31,34 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tnAISKONGVzuZXC1qNIC-9" edge="1" parent="1" source="tnAISKONGVzuZXC1qNIC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="tnAISKONGVzuZXC1qNIC-1">
+        <mxCell id="tnAISKONGVzuZXC1qNIC-9" edge="1" parent="1" source="tnAISKONGVzuZXC1qNIC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" target="tnAISKONGVzuZXC1qNIC-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tnAISKONGVzuZXC1qNIC-8" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;fillColor=#e3c800;strokeColor=#B09500;align=left;fontColor=#000000;" value="1. Add health end point for agent registry to check periodically.&lt;div&gt;2. As RPC use single end point for all skills, provide health end point with the same end point&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="510" x="960" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="tnAISKONGVzuZXC1qNIC-10" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" value="" vertex="1">
+        <mxCell id="tnAISKONGVzuZXC1qNIC-10" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;fontSize=18;" value="" vertex="1">
           <mxGeometry height="50" width="50" x="815.67" y="515" as="geometry" />
         </mxCell>
-        <mxCell id="tnAISKONGVzuZXC1qNIC-11" edge="1" parent="1" source="tnAISKONGVzuZXC1qNIC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="tnAISKONGVzuZXC1qNIC-10">
+        <mxCell id="tnAISKONGVzuZXC1qNIC-11" edge="1" parent="1" source="tnAISKONGVzuZXC1qNIC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" target="tnAISKONGVzuZXC1qNIC-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tnAISKONGVzuZXC1qNIC-12" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffcd28;strokeColor=#d79b00;align=left;gradientColor=#ffa500;" value="How Agent identifies the agent registry info,&amp;nbsp;" vertex="1">
+        <mxCell id="tnAISKONGVzuZXC1qNIC-12" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffcd28;strokeColor=#d79b00;align=left;gradientColor=#ffa500;fontSize=18;" value="How Agent identifies the agent registry info,&amp;nbsp;&lt;div&gt;User question-&amp;gt; Create application&lt;/div&gt;" vertex="1">
           <mxGeometry height="350" width="200" x="250" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="tnAISKONGVzuZXC1qNIC-13" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Policy Server&lt;/font&gt;" vertex="1">
-          <mxGeometry height="80" width="210" x="480" y="735" as="geometry" />
+        <mxCell id="tnAISKONGVzuZXC1qNIC-13" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=18;" value="&lt;font&gt;Policy Server&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="210" x="460" y="730" as="geometry" />
         </mxCell>
-        <mxCell id="tnAISKONGVzuZXC1qNIC-14" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" value="What info to be stored in policy server?&lt;div&gt;What is tech stack - DB ?&lt;/div&gt;&lt;div&gt;How IS agent identifies policy server?&lt;/div&gt;&lt;div&gt;How IS agent knows what to pass and what it will get in response from policy server?&lt;/div&gt;" vertex="1">
+        <mxCell id="tnAISKONGVzuZXC1qNIC-14" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontSize=18;" value="What info to be stored in policy server?&lt;div&gt;What is tech stack - DB ?&lt;/div&gt;&lt;div&gt;How IS agent identifies policy server?&lt;/div&gt;&lt;div&gt;How IS agent knows what to pass and what it will get in response from policy server?&lt;/div&gt;" vertex="1">
           <mxGeometry height="190" width="200" x="250" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="tnAISKONGVzuZXC1qNIC-15" edge="1" parent="1" source="ryZy5j3Pdz9s9jt9ntAa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" target="tnAISKONGVzuZXC1qNIC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tnAISKONGVzuZXC1qNIC-16" connectable="0" parent="tnAISKONGVzuZXC1qNIC-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" value="&lt;font&gt;3&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.4625" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
