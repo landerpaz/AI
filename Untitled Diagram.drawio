@@ -77,7 +77,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ymPcvgCRSnnNaRSm59RM-1" parent="1" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;verticalAlign=top;align=center;pointerEvents=1;shape=mxgraph.cisco_safe.design.actor_2;fontSize=18;" value="" vertex="1">
-          <mxGeometry height="50" width="19" x="406" y="290" as="geometry" />
+          <mxGeometry height="50" width="19" x="406" y="300" as="geometry" />
         </mxCell>
         <mxCell id="kIVAA76M_tabAzQaC-W4-2" edge="1" parent="1" source="ymPcvgCRSnnNaRSm59RM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" target="kIVAA76M_tabAzQaC-W4-1">
           <mxGeometry relative="1" as="geometry" />
