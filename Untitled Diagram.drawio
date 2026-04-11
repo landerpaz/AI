@@ -44,13 +44,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tnAISKONGVzuZXC1qNIC-12" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#ffcd28;strokeColor=#d79b00;align=left;gradientColor=#ffa500;fontSize=18;" value="How Agent identifies the agent registry info,&amp;nbsp;&lt;div&gt;User question-&amp;gt; Create application&lt;/div&gt;" vertex="1">
-          <mxGeometry height="350" width="200" x="250" y="50" as="geometry" />
+          <mxGeometry height="350" width="410" x="40" y="50" as="geometry" />
         </mxCell>
         <mxCell id="tnAISKONGVzuZXC1qNIC-13" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontSize=18;" value="&lt;font&gt;Policy Server&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="210" x="460" y="730" as="geometry" />
         </mxCell>
         <mxCell id="tnAISKONGVzuZXC1qNIC-14" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;fontSize=18;" value="What info to be stored in policy server?&lt;div&gt;What is tech stack - DB ?&lt;/div&gt;&lt;div&gt;How IS agent identifies policy server?&lt;/div&gt;&lt;div&gt;How IS agent knows what to pass and what it will get in response from policy server?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="190" width="200" x="250" y="670" as="geometry" />
+          <mxGeometry height="320" width="410" x="40" y="540" as="geometry" />
         </mxCell>
         <mxCell id="tnAISKONGVzuZXC1qNIC-15" edge="1" parent="1" source="ryZy5j3Pdz9s9jt9ntAa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" target="tnAISKONGVzuZXC1qNIC-13">
           <mxGeometry relative="1" as="geometry" />
