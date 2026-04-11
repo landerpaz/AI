@@ -166,8 +166,8 @@
         <mxCell id="kIVAA76M_tabAzQaC-W4-34" edge="1" parent="1" source="kIVAA76M_tabAzQaC-W4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" target="kIVAA76M_tabAzQaC-W4-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1386.1" y="685.8823529411765" />
-              <mxPoint x="2342.1" y="685.8823529411765" />
+              <mxPoint x="1386" y="180" />
+              <mxPoint x="2475" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
