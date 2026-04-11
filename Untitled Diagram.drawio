@@ -108,7 +108,7 @@
         <mxCell id="kIVAA76M_tabAzQaC-W4-48" parent="kIVAA76M_tabAzQaC-W4-45" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_cube.svg;fontSize=18;" value="Agent RegistryVector DB" vertex="1">
           <mxGeometry height="84.12698412698413" width="75.71428571428571" x="1019.7333333333332" y="118.03179271708684" as="geometry" />
         </mxCell>
-        <mxCell id="kIVAA76M_tabAzQaC-W4-49" edge="1" parent="kIVAA76M_tabAzQaC-W4-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=0;entryY=0;entryDx=0;entryDy=32.9925;entryPerimeter=0;" target="kIVAA76M_tabAzQaC-W4-47" value="B-2 Store agent JSON">
+        <mxCell id="kIVAA76M_tabAzQaC-W4-49" edge="1" parent="kIVAA76M_tabAzQaC-W4-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;entryX=0;entryY=0;entryDx=0;entryDy=32.9925;entryPerimeter=0;" target="kIVAA76M_tabAzQaC-W4-47" value="B-2. Store agent JSON">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-6.704106849314485" y="143.01587301587315" as="sourcePoint" />
             <mxPoint x="590" y="130" as="targetPoint" />
@@ -155,7 +155,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kIVAA76M_tabAzQaC-W4-56" connectable="0" parent="kIVAA76M_tabAzQaC-W4-55" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" value="B-3 Store vector (Agent card name, description, tags, examples)" vertex="1">
+        <mxCell id="kIVAA76M_tabAzQaC-W4-56" connectable="0" parent="kIVAA76M_tabAzQaC-W4-55" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" value="B-3. Store vector (Agent card name, description, tags, examples)" vertex="1">
           <mxGeometry relative="1" x="-0.196" y="1" as="geometry">
             <mxPoint x="62" as="offset" />
           </mxGeometry>
