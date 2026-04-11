@@ -132,8 +132,8 @@
         <mxCell id="kIVAA76M_tabAzQaC-W4-24" parent="kIVAA76M_tabAzQaC-W4-26" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;fontSize=18;" value="&lt;font&gt;Agent Registry DB&lt;/font&gt;" vertex="1">
           <mxGeometry height="160" width="118.9" x="360" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="kIVAA76M_tabAzQaC-W4-8" parent="kIVAA76M_tabAzQaC-W4-26" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_cube.svg;fontSize=18;" value="Vector DB" vertex="1">
-          <mxGeometry height="100" width="90" x="540" y="60" as="geometry" />
+        <mxCell id="kIVAA76M_tabAzQaC-W4-8" parent="kIVAA76M_tabAzQaC-W4-26" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_cube.svg;fontSize=18;" value="Agent RegistryVector DB" vertex="1">
+          <mxGeometry height="100" width="90" x="640" y="60" as="geometry" />
         </mxCell>
         <mxCell id="kIVAA76M_tabAzQaC-W4-5" parent="kIVAA76M_tabAzQaC-W4-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="&lt;font&gt;Intent Identification&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="200" as="geometry" />
