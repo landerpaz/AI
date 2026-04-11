@@ -142,7 +142,7 @@
           <mxGeometry height="30" width="200" as="geometry" />
         </mxCell>
         <mxCell id="kIVAA76M_tabAzQaC-W4-19" connectable="0" parent="1" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=18;" value="" vertex="1">
-          <mxGeometry height="830" width="465" x="2170" y="50" as="geometry" />
+          <mxGeometry height="830" width="465" x="2680" y="80" as="geometry" />
         </mxCell>
         <mxCell id="kIVAA76M_tabAzQaC-W4-15" collapsed="1" parent="kIVAA76M_tabAzQaC-W4-19" style="swimlane;startSize=0;fontSize=18;" value="" vertex="1">
           <mxGeometry height="40" width="50" y="30" as="geometry">
