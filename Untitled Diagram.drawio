@@ -158,7 +158,7 @@
         </mxCell>
         <mxCell id="kIVAA76M_tabAzQaC-W4-38" connectable="0" parent="kIVAA76M_tabAzQaC-W4-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;A-3. Give me the agent card (s) for &quot;I want to create application in CA&quot;&amp;nbsp;&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0751" as="geometry">
-            <mxPoint x="-200" y="-89" as="offset" />
+            <mxPoint x="-250" y="-39" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kIVAA76M_tabAzQaC-W4-39" edge="1" parent="1" source="kIVAA76M_tabAzQaC-W4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kIVAA76M_tabAzQaC-W4-8">
@@ -191,6 +191,14 @@
         <mxCell id="kIVAA76M_tabAzQaC-W4-35" connectable="0" parent="kIVAA76M_tabAzQaC-W4-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" value="B-3 Store Vector (Agent Card Name, Description, tags, examples)" vertex="1">
           <mxGeometry relative="1" x="-0.196" y="1" as="geometry">
             <mxPoint x="62" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kIVAA76M_tabAzQaC-W4-41" edge="1" parent="1" source="kIVAA76M_tabAzQaC-W4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="kIVAA76M_tabAzQaC-W4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kIVAA76M_tabAzQaC-W4-42" connectable="0" parent="kIVAA76M_tabAzQaC-W4-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;A-5 Agent Cards&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.3639" y="2" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
