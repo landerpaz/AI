@@ -157,8 +157,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kIVAA76M_tabAzQaC-W4-38" connectable="0" parent="kIVAA76M_tabAzQaC-W4-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;A-3 Give me the agent card (s) for &quot;I want to create application in CA&quot;&amp;nbsp;&lt;/font&gt;" vertex="1">
+        <mxCell id="kIVAA76M_tabAzQaC-W4-38" connectable="0" parent="kIVAA76M_tabAzQaC-W4-37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;A-3. Give me the agent card (s) for &quot;I want to create application in CA&quot;&amp;nbsp;&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0751" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kIVAA76M_tabAzQaC-W4-39" edge="1" parent="1" source="kIVAA76M_tabAzQaC-W4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kIVAA76M_tabAzQaC-W4-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1359" y="450" />
+              <mxPoint x="2475" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kIVAA76M_tabAzQaC-W4-40" connectable="0" parent="kIVAA76M_tabAzQaC-W4-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;A-4 Do semantic search and find the matching cards&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.009" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
