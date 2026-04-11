@@ -29,6 +29,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tnAISKONGVzuZXC1qNIC-9" edge="1" parent="1" source="tnAISKONGVzuZXC1qNIC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="tnAISKONGVzuZXC1qNIC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tnAISKONGVzuZXC1qNIC-8" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" value="1. Add health end point for agent registry to check periodically.&lt;div&gt;2. As RPC use single end point for all skills, provide health end point with the same end point&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="510" x="960" y="20" as="geometry" />
         </mxCell>
