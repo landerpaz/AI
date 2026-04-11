@@ -172,7 +172,7 @@
           <mxGeometry height="830" width="465" x="2890" y="70" as="geometry" />
         </mxCell>
         <mxCell id="kIVAA76M_tabAzQaC-W4-15" collapsed="1" parent="kIVAA76M_tabAzQaC-W4-19" style="swimlane;startSize=0;fontSize=18;" value="" vertex="1">
-          <mxGeometry height="40" width="50" y="30" as="geometry">
+          <mxGeometry height="40" width="50" x="45" y="350" as="geometry">
             <mxRectangle height="800" width="465" y="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -180,7 +180,7 @@
           <mxGeometry height="760" width="430" x="17.5" y="30" as="geometry" />
         </mxCell>
         <mxCell id="kIVAA76M_tabAzQaC-W4-18" parent="kIVAA76M_tabAzQaC-W4-19" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="&lt;font&gt;Agent Card Example&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="260" x="-45" as="geometry" />
+          <mxGeometry height="30" width="260" y="320" as="geometry" />
         </mxCell>
         <mxCell id="kIVAA76M_tabAzQaC-W4-22" edge="1" parent="1" source="kIVAA76M_tabAzQaC-W4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;">
           <mxGeometry relative="1" as="geometry">
