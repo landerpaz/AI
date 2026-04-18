@@ -1,6 +1,19 @@
+Value props
+
 1	Speed	LLM-powered intent classification and automated domain agent routing eliminate manual coordination delays. Cross-domain tasks are orchestrated in parallel where dependencies allow
 2	End-to-End Transparency	Unified tracking dashboard with milestone-based status updates, live SLA timers, and an executive reporting layer aggregating all domain activity in one view
 3	Customer Experience	Natural language intake via chat or structured form, proactive milestone notifications, and a single request ID that tracks end-to-end across all domains
 4	Cost Saving	Faster resolution shrinks cost-per-request
 5	Audit & Regulatory Readiness	Audit trail captured for every intake, routing decision, domain action, and resolution. Compliance reports generated from structured data — no manual assembly required
 6	Risk Reduction	Enforced completion checkpoints prevent tasks from being dropped. Guardrails ensure consistent policy application. SLA breach alerts enable intervention before risk materializes
+
+
+
+Problem statement
+The Information Security organization operates as a collection of siloed domain teams — each with its own tools, processes, and SLA definitions — forcing customers to lose critical time identifying the right teams, engaging them independently, and manually coordinating across domains, while leadership operates without unified visibility to manage risk, performance, and outcomes.
+
+
+Solution description:
+
+We will design and deploy an AI-powered IS Intake Agent — a single, intelligent front door where customers submit any security request via natural language chat or guided forms, and the agent automatically classifies, routes, and orchestrates fulfillment across all relevant security domain agents.
+The platform delivers real-time request transparency to customers and a consolidated operational dashboard to leadership — transforming IS service delivery from a fragmented, manual process into a unified, accountable, and intelligent service experience.
